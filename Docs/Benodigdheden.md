@@ -21,5 +21,4 @@
 - Houtlijm (of 10secondenlijm)
 - Naald en draad
 - Boor  
-
-#Een jesse. 
+- Een jesse. 
