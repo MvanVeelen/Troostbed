@@ -11,7 +11,8 @@
 #Electrotechniek:
 - 1x arduino Yun
 - 2 servo Motors
-- Shitload aan kabeltjes
+- 20 aansluitkabeltjes
+- 1 breadboard
 - 6 oranje Ledjes
 - 6 weerstandjes van 220 ohm
 - 1 potentiometer  
@@ -22,4 +23,4 @@
 - Houtlijm (of 10secondenlijm)
 - Naald en draad
 - Boor
-- Een jesse
+
