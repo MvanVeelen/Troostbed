@@ -19,7 +19,7 @@ Nu kun je kijken wat voor een soort licht je graag wilt verwerken in het troostb
 - Plaats 2 blokjes hout op de plekken waar je de servo's wilt monteren
 - Boor naast elk blokje een gat waar de kabels van de servo's doorheen passen. 
 - Maak nu twee steunblokken die je op de uitersten van je frame neerzet. Hier lijm je in een later stadium de bovenste ring aan vast.
-
+- Lijm de blokjes voor de servo's en de twee steunblokken aan de ondergrond. 
 
 #Stap 4:
 <img src="http://u.cubeupload.com/Thovex/be34.png">
@@ -27,40 +27,24 @@ Nu is het tijd om te solderen!
 - Plak een ondoorbroken cirkel kopertape aan de buitenste rand van de geboorde gaten, hier soldeer je later een kabel aan vast wat de GROUND wordt. 
 - Plak nu aan de binnenste cirkel van de ledjes PER LEDJE een klein stukje kopertape.
 - Steek de ledjes een voor een door de gaten en vouw de pootjes naar buiten, zo blijven ze beter haken en hoef je je hier geen zorgen om te maken tijdens het solderen.
-- Zorg ervoor dat het langste pootje van elk ledje vast zit aan de binnenste cirkel kopertape en het kortste pootje vast zit aan het stukje koper tape aan de buitenste cirkel (de buitenste cirkel wordt straks de GROUND). Soldeer ze vast.
+- Zorg ervoor dat het la;ngste pootje van elk ledje vast zit aan de binnenste cirkel kopertape en het kortste pootje vast zit aan het stukje koper tape aan de buitenste cirkel (de buitenste cirkel wordt straks de GROUND). Soldeer ze vast.
 - Soldeer nu aan elk lange pootje (aan de binnenste ring) een weerstandje. soldeer aan elk weerstandje een aansluitdraadje. 
 - Soldeer nu 1 aansluitdraad aan de buitenste cirkel vast. 
 
 #Stap 5:
-
-<img src="http://u.cubeupload.com/Thovex/3b96.png">
-Naai nu een stukje stof of een lintje vast aan elk wiekentje van een servo motor
-
-
-Stap 6:
-<img src="http://u.cubeupload.com/Thovex/9c75.png">
-- Leg de bovenste houten ring op het katoen en teken hier een rand van 5cm omheen.
-- Knip het uitgetekende stuk 2x uit.
-- Pak 1 uitgeknipt stuk stof en teken nu naar de binnenkant een ring met een afstand van 10cm vanaf de buitenkant. 
-- Knip deze uit.
-- Leg de lappen stof met de randen op elkaar, speld deze aan de binnenste cirkelrand vast en naai hem vast.
-- Shuif nu de ring tussen de twee lappen en naai de stukken stof aan de buitenkant aan elkaar vast zodat de ring nu omgeven wordt door stof. 
-- Naai de andere uiteindes van de stukken stof die verbonden zijn met de servo moter vast aan de stof. 
-
-Stap 7:
-<img src="http://u.cubeupload.com/Thovex/c027.png">
-- Lijm de blokjes voor de servo's en de twee steunblokken aan de ondergrond vast. 
+<img src="http://u.cubeupload.com/Thovex/c027.png">  
+- Lijm de blokjes voor de servo's en de twee steunblokken aan de ondergrond vast.
 - Bevestig de servo's aan de blokjes.
-- leg de stoffen ring op de steunblokken, bevestig de wiekentjes aan de servo motoren. 
-- Til de stoffen ring een klein stukje omhoog en lijm hem vast aan de steunblokken vast. 
+- Leg de stoffen ring op de steunblokken, bevestig de wiekentjes aan de servo motoren.
+- Til de stoffen ring een klein stukje omhoog en lijm hem vast aan de steunblokken vast.
 
 #Stap 6:
-<img src="http://u.cubeupload.com/Thovex/a5b8.png">
-Als de lijm goed is gedroogd kunnen we de arduino en het breadboard bevestigen aan het onderstel. 
-- schroef de arduino vast aan het onderstel
+<img src="http://u.cubeupload.com/Thovex/a5b8.png">  
+Als de lijm goed is gedroogd kunnen we de arduino en het breadboard bevestigen aan het onderstel.
+
+- Schroef de arduino vast aan het onderstel
 - Plak het breadboard vast aan het onderstel
 - Sluit de aansluitkabels aan aan de arduino
-
 
 #Stap 7:
 <img src="http://u.cubeupload.com/Thovex/a769.png">
