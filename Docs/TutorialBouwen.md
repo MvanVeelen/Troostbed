@@ -47,8 +47,11 @@ Als de lijm goed is gedroogd kunnen we de arduino en het breadboard bevestigen a
 - Sluit de aansluitkabels aan aan de arduino
 
 #Stap 7:
-<img src="http://u.cubeupload.com/Thovex/a769.png">
+<img src="http://u.cubeupload.com/Thovex/a769.png">  
+Nu kun je de buitenkant van het troostbedje zelf bepalen. Ik heb een strook buigtriplex en Peren Fineer gebruikt voor mijn troostbedje. 
 
+Op deze website kun je lezen hoe je fineer moet aanbrengen:  
+http://www.af.nl/voorraad/fineer/fineerles/fineerles.pdf  
 
-
+Voordat je fineer aanbrengt is het verstandig om eerst een laag buigtriplex aan te brengen. Dit verstevigt de constructie. Je bevestigt buigtriplex op dezelfde manier als fineer, maar dan wel met twee schroeven die aan het begin en einde van de plaat vast boort in het frame.
 
