@@ -21,19 +21,17 @@ Nu kun je kijken wat voor een soort licht je graag wilt verwerken in het troostb
 - Maak nu twee steunblokken die je op de uitersten van je frame neerzet. Hier lijm je in een later stadium de bovenste ring aan vast.
 - Lijm de blokjes voor de servo's en de twee steunblokken aan de ondergrond. 
 
-
 #Stap 4:
 <img src="http://u.cubeupload.com/Thovex/be34.png">
+Nu is het tijd om te solderen!
+- Plak een ondoorbroken cirkel kopertape aan de buitenste rand van de geboorde gaten, hier soldeer je later een kabel aan vast wat de GROUND wordt. 
+- Plak nu aan de binnenste cirkel van de ledjes PER LEDJE een klein stukje kopertape.
+- Steek de ledjes een voor een door de gaten en vouw de pootjes naar buiten, zo blijven ze beter haken en hoef je je hier geen zorgen om te maken tijdens het solderen.
+- Zorg ervoor dat het langste pootje van elk ledje vast zit aan de binnenste cirkel kopertape en het kortste pootje vast zit aan het stukje koper tape aan de buitenste cirkel (de buitenste cirkel wordt straks de GROUND). Soldeer ze vast.
+- Soldeer nu aan elk lange pootje (aan de binnenste ring) een weerstandje. soldeer aan elk weerstandje een aansluitdraadje. 
+- Soldeer nu 1 aansluitdraad aan de buitenste cirkel vast. 
 
 
-
-#Stap 5:
-<img src="http://u.cubeupload.com/Thovex/9c75.png">
-
-#Stap 6:
-<img src="http://u.cubeupload.com/Thovex/3b96.png">
-
-#Stap 7:
 <img src="http://u.cubeupload.com/Thovex/c027.png">
 
 #Stap 8:
