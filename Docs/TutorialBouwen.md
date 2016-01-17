@@ -31,6 +31,9 @@ Nu is het tijd om te solderen!
 - Soldeer nu aan elk lange pootje (aan de binnenste ring) een weerstandje. soldeer aan elk weerstandje een aansluitdraadje. 
 - Soldeer nu 1 aansluitdraad aan de buitenste cirkel vast. 
 
+Nu is Het tijd om de potentiometer te voorzien van aansluitkabeltjes.
+- soldeer aan elk pinnetje van de potentiometer een aansluitkabeltje vast. Het is handig om voor de ground pin de kleur zwart te gebruiken en voor de pin die je aansluit aan een voltpin een rode kabel. 
+
 #Stap 5:
 <img src="http://u.cubeupload.com/Thovex/c027.png">  
 - Lijm de blokjes voor de servo's en de twee steunblokken aan de ondergrond vast.
@@ -49,6 +52,8 @@ Als de lijm goed is gedroogd kunnen we de arduino en het breadboard bevestigen a
 #Stap 7:
 <img src="http://u.cubeupload.com/Thovex/a769.png">  
 Nu kun je de buitenkant van het troostbedje zelf bepalen. Ik heb een strook buigtriplex en Peren Fineer gebruikt voor mijn troostbedje. 
+ 
+<b>Een tip:</b> boor in de buitenkant een gaatje waar je de draaiknop van de potentiometer doorheen kunt steken. 
 
 Op deze website kun je lezen hoe je fineer moet aanbrengen:  
 http://www.af.nl/voorraad/fineer/fineerles/fineerles.pdf  
