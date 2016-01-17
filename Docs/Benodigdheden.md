@@ -1,4 +1,5 @@
 #Benodigdheden
+<img src="http://u.cubeupload.com/Thovex/toolscropped.jpg">
 
 #Voor het frame en de buitenkant:
 - 90cm buigtriplex
