@@ -14,5 +14,3 @@ Maria van Veelen
 - Programming
 - Documentation
 
-Jesse van Vliet
-- Savior of Mary <3
