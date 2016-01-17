@@ -12,7 +12,7 @@
 - 2 Servo Motors
 - Shitload aan kabeltjes
 - 6 oranje Ledjes
-- 6 weerstandjes voor 100 ohm?
+- 6 weerstandjes voor 220 ohm
 - 1 Potentiometer  
 
 #Gereedschappen:
