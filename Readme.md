@@ -13,3 +13,6 @@ Maria van Veelen
 - Design
 - Programming
 - Documentation
+
+Jesse van Vliet
+- Savior of Mary <3
