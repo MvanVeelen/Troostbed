@@ -31,13 +31,14 @@ Nu is het tijd om te solderen!
 - Soldeer nu aan elk lange pootje (aan de binnenste ring) een weerstandje. soldeer aan elk weerstandje een aansluitdraadje. 
 - Soldeer nu 1 aansluitdraad aan de buitenste cirkel vast. 
 
-
+#Stap 5:
 <img src="http://u.cubeupload.com/Thovex/c027.png">
 
-#Stap 8:
+
+#Stap 6:
 <img src="http://u.cubeupload.com/Thovex/a5b8.png">
 
-#Stap 9:
+#Stap 7:
 <img src="http://u.cubeupload.com/Thovex/a769.png">
 
 
